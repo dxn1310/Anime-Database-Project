@@ -1,0 +1,16 @@
+.top-outer{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* height: 2rem; */
+}
+
+.top-inner {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+    background-color: rgb(226, 226, 226);
+}
